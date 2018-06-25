@@ -1,3 +1,3 @@
 # Hoppy-Beaver
 
-https://delelaniyan.github.io/Hoppy-Beaver/hoppy.js
+[Click here](https://delelaniyan.github.io/Hoppy-Beaver/hoppy.js)
